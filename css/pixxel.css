@@ -1,0 +1,31 @@
+td{
+    height: 20px;
+    width: 20px;
+}
+
+table{
+    margin:auto;
+    border-collapse:collapse
+}
+
+.yellow{
+    background-color: rgb(251, 255, 0);
+}
+
+.white{
+    background-color: rgb(255, 255, 255);
+}
+
+.grey{
+    background-color: grey;
+}
+
+.black{
+    background-color: black;
+}
+.blue{
+    background-color: blue;
+}
+
+
+
