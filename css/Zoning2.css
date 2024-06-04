@@ -1,0 +1,48 @@
+body{
+    color: white;
+    font-size: 25px;
+}
+#conteneur{
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid ;
+}
+
+nav{
+    background-color: blue;
+    height: 30px
+
+}
+
+section{
+    background-color: aquamarine;
+    height: 500px;
+    margin: 20px;
+}
+
+footer{
+    background-color: chocolate;
+    height: 100px;
+
+}
+.a{
+    background-color: violet;
+}
+
+.b{
+    background-color: yellow;
+
+}
+
+.c{
+    background-color: crimson;
+}
+.d{
+    background-color: saddlebrown;
+}
+
+.a, .b, .c, .d{
+    width: 50%;
+    height: 250px;
+    float: left;
+}
